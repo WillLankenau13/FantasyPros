@@ -1,0 +1,43 @@
+Player,Pos,Team,Opp,Salary,FPTS,ppd,Matchup,StartSit,min_sal,rep_points,PAR_PD
+Jalen Hurts,QB,PHI,ARI,40,25.144,0.6286,5 out of 5 stars,A+,20,15.3,0.425
+Josh Allen,QB,BUF,NE,36,22.330,0.6203,2 out of 5 stars,A,20,15.3,0.40625
+Brock Purdy,QB,SF,WAS,32,20.328,0.6352,5 out of 5 stars,A,20,15.3,0.425
+Travis Kelce,TE,KC,CIN,26,12.849,0.4942,4 out of 5 stars,A+,10,5.5,0.4125
+George Kittle,TE,SF,WAS,21,10.652,0.5073,4 out of 5 stars,A,10,5.5,0.5727272727
+Trey McBride,TE,ARI,PHI,21,11.838,0.5637,4 out of 5 stars,A,10,5.5,0.5090909091
+Dallas Goedert,TE,PHI,ARI,16,8.938,0.5586,3 out of 5 stars,B-,10,5.5,0.5166666667
+Isaiah Likely,TE,BAL,MIA,16,8.301,0.5188,3 out of 5 stars,C+,10,5.5,0.5
+Darren Waller,TE,NYG,LA,16,7.888,0.4930,4 out of 5 stars,C,10,5.5,0.4166666667
+Dalton Kincaid,TE,BUF,NE,13,6.068,0.4668,3 out of 5 stars,D+,10,5.5,0.4
+Tucker Kraft,TE,GB,MIN,11,7.611,0.6919,4 out of 5 stars,C,10,5.5,1.8
+Christian McCaffrey,RB,SF,WAS,42,20.451,0.4869,4 out of 5 stars,A+,10,11.6,0.34375
+Rachaad White,RB,TB,NO,30,14.724,0.4908,3 out of 5 stars,A,10,11.6,0.19
+Jonathan Taylor,RB,IND,LV,29,14.878,0.5130,5 out of 5 stars,A,10,11.6,0.1631578947
+James Cook,RB,BUF,NE,28,14.234,0.5083,2 out of 5 stars,A,10,11.6,0.1888888889
+Travis Etienne Jr,RB,JAC,CAR,26,13.880,0.5338,4 out of 5 stars,A,10,11.6,0.2
+D Andre Swift,RB,PHI,ARI,23,12.960,0.5635,4 out of 5 stars,A,10,11.6,0.1692307692
+Kenneth Walker III,RB,SEA,PIT,22,11.754,0.5343,2 out of 5 stars,B+,10,11.6,0.1083333333
+Ty Chandler,RB,MIN,GB,22,12.814,0.5825,5 out of 5 stars,B,10,11.6,0.06666666667
+James Conner,RB,ARI,PHI,22,11.358,0.5163,1 out of 5 stars,B-,10,11.6,0.05
+Aaron Jones,RB,GB,MIN,21,11.798,0.5618,2 out of 5 stars,B,10,11.6,0.09090909091
+Ezekiel Elliott,RB,NE,BUF,20,12.252,0.6126,4 out of 5 stars,B,10,11.6,0.08
+Devin Singletary,RB,HOU,TEN,20,12.009,0.6005,3 out of 5 stars,B-,10,11.6,0.05
+Jaylen Warren,RB,PIT,SEA,18,10.486,0.5825,3 out of 5 stars,C,10,11.6,-0.0875
+Zamir White,RB,LV,IND,10,12.661,1.2661,3 out of 5 stars,B-,10,11.6,0
+Clyde Edwards Helaire,RB,KC,CIN,10,5.587,0.5587,3 out of 5 stars,C,10,11.6,0
+Justin Jefferson,WR,MIN,GB,29,15.204,0.5243,3 out of 5 stars,A+,10,11.6,0.2052631579
+A J Brown,WR,PHI,ARI,29,15.186,0.5237,4 out of 5 stars,A+,10,11.6,0.1526315789
+Puka Nacua,WR,LA,NYG,26,13.284,0.5109,3 out of 5 stars,A,10,11.6,0.09375
+Rashee Rice,WR,KC,CIN,26,12.622,0.4855,3 out of 5 stars,A,10,11.6,0.0875
+Chris Olave,WR,NO,TB,24,12.610,0.5254,4 out of 5 stars,A,10,11.6,0.08571428571
+Chris Godwin,WR,TB,NO,21,10.751,0.5119,4 out of 5 stars,B+,10,11.6,-0.02727272727
+Calvin Ridley,WR,JAC,CAR,20,10.498,0.5249,3 out of 5 stars,B+,10,11.6,-0.06
+Zay Flowers,WR,BAL,MIA,20,10.473,0.5236,4 out of 5 stars,B,10,11.6,-0.08
+Tyler Lockett,WR,SEA,PIT,19,10.084,0.5307,3 out of 5 stars,B,10,11.6,-0.1333333333
+Jayden Reed,WR,GB,MIN,19,10.042,0.5285,3 out of 5 stars,B,10,11.6,-0.1888888889
+Adam Thielen,WR,CAR,JAC,18,8.864,0.4924,3 out of 5 stars,B-,10,11.6,-0.2375
+Rashid Shaheed,WR,NO,TB,17,7.153,0.4208,4 out of 5 stars,C+,10,11.6,-0.4285714286
+Noah Brown,WR,HOU,TEN,16,8.288,0.5180,4 out of 5 stars,C+,10,11.6,-0.4833333333
+Jaxon Smith Njigba,WR,SEA,PIT,16,8.384,0.5240,3 out of 5 stars,C+,10,11.6,-0.5
+Jerry Jeudy,WR,DEN,LAC,16,8.373,0.5233,4 out of 5 stars,C+,10,11.6,-0.5
+Michael Wilson,WR,ARI,PHI,11,6.436,0.5851,3 out of 5 stars,C-,10,11.6,-4.9

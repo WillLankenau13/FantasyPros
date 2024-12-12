@@ -1,0 +1,398 @@
+Player,Pos,Team,Opp,Salary,FPTS,ppd,Matchup,StartSit,min_sal,rep_points,PAR_PD
+Jalen Hurts,QB,PHI,KC,38,21.1,0.5553,2 out of 5 stars,A,20,14.1,0.388888888888889
+Patrick Mahomes,QB,KC,PHI,37,21.5,0.5811,4 out of 5 stars,A+,20,14.1,0.43529411764705883
+Lamar Jackson,QB,BAL,CIN,36,20.8,0.5778,2 out of 5 stars,A,20,14.1,0.41875000000000007
+Dak Prescott,QB,DAL,CAR,31,19.4,0.6258,2 out of 5 stars,A,20,14.1,0.4818181818181817
+Andy Dalton,QB,CAR,DAL,20,0,0,2 out of 5 stars,F,20,14.1,0
+Bryce Young,QB,CAR,DAL,20,13.4,0.67,2 out of 5 stars,F,20,14.1,0
+Mitch Trubisky,QB,PIT,CLE,20,0,0,2 out of 5 stars,F,20,14.1,0
+Kenny Pickett,QB,PIT,CLE,20,12.5,0.625,2 out of 5 stars,F,20,14.1,0
+P J Walker,QB,CLE,PIT,20,12.2,0.61,2 out of 5 stars,F,20,14.1,0
+Dorian Thompson Robinson,QB,CLE,PIT,20,13.1,0.655,2 out of 5 stars,F,20,14.1,0
+Justin Fields,QB,CHI,DET,33,17.5,0.5303,4 out of 5 stars,C+,20,14.1,0.26153846153846155
+Tyson Bagent,QB,CHI,DET,20,0,0,4 out of 5 stars,F,20,14.1,0
+Jared Goff,QB,DET,CHI,32,18.4,0.575,5 out of 5 stars,B,20,14.1,0.3583333333333332
+Clayton Tune,QB,ARI,HOU,20,0,0,4 out of 5 stars,F,20,14.1,0
+C J Stroud,QB,HOU,ARI,33,18.9,0.5727,5 out of 5 stars,B+,20,14.1,0.36923076923076914
+Kyler Murray,QB,ARI,HOU,28,18.2,0.65,4 out of 5 stars,B,20,14.1,0.5125
+Jimmy Garoppolo,QB,LV,MIA,20,0,0,4 out of 5 stars,F,20,14.1,0
+Aidan O Connell,QB,LV,MIA,20,14.1,0.705,4 out of 5 stars,F,20,14.1,0
+Tua Tagovailoa,QB,MIA,LV,32,19.8,0.6188,4 out of 5 stars,A,20,14.1,0.4750000000000001
+Tommy DeVito,QB,NYG,WAS,20,12.8,0.64,4 out of 5 stars,F,20,14.1,0
+Sam Howell,QB,WAS,NYG,27,17.9,0.663,5 out of 5 stars,B,20,14.1,0.5428571428571427
+Justin Herbert,QB,LAC,GB,30,18,0.6,4 out of 5 stars,B,20,14.1,0.39
+Jordan Love,QB,GB,LAC,24,16.1,0.6708,4 out of 5 stars,D+,20,14.1,0.5000000000000004
+Malik Willis,QB,TEN,JAC,20,0,0,2 out of 5 stars,F,20,14.1,0
+Will Levis,QB,TEN,JAC,27,14.6,0.5407,2 out of 5 stars,D-,20,14.1,0.07142857142857142
+Trevor Lawrence,QB,JAC,TEN,25,16.9,0.676,4 out of 5 stars,C,20,14.1,0.5599999999999998
+Baker Mayfield,QB,TB,SF,24,15.1,0.6292,2 out of 5 stars,D,20,14.1,0.25
+Brock Purdy,QB,SF,TB,28,17.7,0.6321,3 out of 5 stars,B-,20,14.1,0.44999999999999996
+Zach Wilson,QB,NYJ,BUF,20,13.7,0.685,3 out of 5 stars,F,20,14.1,0
+Josh Allen,QB,BUF,NYJ,38,20.3,0.5342,2 out of 5 stars,A,20,14.1,0.3444444444444445
+Geno Smith,QB,SEA,LA,25,16.4,0.656,3 out of 5 stars,C-,20,14.1,0.4599999999999998
+Matthew Stafford,QB,LA,SEA,26,15.6,0.6,3 out of 5 stars,D,20,14.1,0.25
+Joshua Dobbs,QB,MIN,DEN,30,17.2,0.5733,4 out of 5 stars,C,20,14.1,0.30999999999999994
+Russell Wilson,QB,DEN,MIN,24,16.6,0.6917,2 out of 5 stars,C-,20,14.1,0.6250000000000004
+Boston Scott,RB,PHI,KC,10,0,0,2 out of 5 stars,F,10,6.9,0
+A J Brown,WR,PHI,KC,37,16.3,0.4405,3 out of 5 stars,A+,10,6.9,0.34814814814814815
+Olamide Zaccheaus,WR,PHI,KC,10,2.8,0.28,3 out of 5 stars,F,10,6.9,0
+D Andre Swift,RB,PHI,KC,27,13.2,0.4889,2 out of 5 stars,A,10,6.9,0.3705882352941176
+DeVonta Smith,WR,PHI,KC,20,11.5,0.575,3 out of 5 stars,A-,10,6.9,0.45999999999999996
+Kenneth Gainwell,RB,PHI,KC,15,4.6,0.3067,2 out of 5 stars,D,10,6.9,-0.46000000000000013
+Britain Covey,WR,PHI,KC,10,0,0,3 out of 5 stars,F,10,6.9,0
+Jerick McKinnon,RB,KC,PHI,11,4.5,0.4091,2 out of 5 stars,D-,10,6.9,-2.4000000000000004
+Justin Watson,WR,KC,PHI,10,3.9,0.39,4 out of 5 stars,F,10,6.9,0
+Marquez Valdes Scantling,WR,KC,PHI,13,4.4,0.3385,4 out of 5 stars,D-,10,6.9,-0.8333333333333334
+Clyde Edwards Helaire,RB,KC,PHI,10,1.9,0.19,2 out of 5 stars,F,10,6.9,0
+Kadarius Toney,WR,KC,PHI,10,3.7,0.37,4 out of 5 stars,F,10,6.9,0
+Skyy Moore,WR,KC,PHI,14,4.1,0.2929,4 out of 5 stars,F,10,6.9,-0.7000000000000002
+Isiah Pacheco,RB,KC,PHI,18,11.4,0.6333,2 out of 5 stars,B,10,6.9,0.5625
+Rashee Rice,WR,KC,PHI,20,8.7,0.435,4 out of 5 stars,C+,10,6.9,0.17999999999999988
+Julio Jones,WR,PHI,KC,11,2.4,0.2182,3 out of 5 stars,F,10,6.9,-4.5
+Tyler Boyd,WR,CIN,BAL,17,9.7,0.5706,2 out of 5 stars,B-,10,6.9,0.39999999999999986
+Joe Mixon,RB,CIN,BAL,23,12.3,0.5348,3 out of 5 stars,B,10,6.9,0.4153846153846154
+Trayveon Williams,RB,CIN,BAL,10,2.4,0.24,3 out of 5 stars,F,10,6.9,0
+Trenton Irwin,WR,CIN,BAL,12,6.7,0.5583,2 out of 5 stars,C-,10,6.9,-0.10000000000000009
+Ja Marr Chase,WR,CIN,BAL,31,15.3,0.4935,2 out of 5 stars,A+,10,6.9,0.4
+Chris Evans,RB,CIN,BAL,10,0.4,0.04,3 out of 5 stars,F,10,6.9,0
+Odell Beckham Jr,WR,BAL,CIN,11,6.4,0.5818,2 out of 5 stars,C-,10,6.9,-0.5
+Nelson Agholor,WR,BAL,CIN,11,3.3,0.3,2 out of 5 stars,F,10,6.9,-3.6000000000000005
+Patrick Ricard,RB,BAL,CIN,10,0.5,0.05,4 out of 5 stars,F,10,6.9,0
+Gus Edwards,RB,BAL,CIN,23,9.9,0.4304,4 out of 5 stars,C+,10,6.9,0.23076923076923078
+Justice Hill,RB,BAL,CIN,10,4,0.4,4 out of 5 stars,F,10,6.9,0
+Devin Duvernay,WR,BAL,CIN,10,0.9,0.09,2 out of 5 stars,F,10,6.9,0
+Rashod Bateman,WR,BAL,CIN,10,6.1,0.61,2 out of 5 stars,D+,10,6.9,0
+Tylan Wallace,WR,BAL,CIN,10,0,0,2 out of 5 stars,F,10,6.9,0
+Zay Flowers,WR,BAL,CIN,17,9.9,0.5824,2 out of 5 stars,B-,10,6.9,0.42857142857142855
+Keaton Mitchell,RB,BAL,CIN,16,8.4,0.525,4 out of 5 stars,C,10,6.9,0.25
+Charlie Jones,WR,CIN,BAL,10,0.6,0.06,2 out of 5 stars,F,10,6.9,0
+Shedrick Jackson,WR,CIN,BAL,10,0,0,2 out of 5 stars,F,10,6.9,0
+Brandin Cooks,WR,DAL,CAR,22,7.7,0.35,3 out of 5 stars,C,10,6.9,0.06666666666666665
+Michael Gallup,WR,DAL,CAR,10,5.2,0.52,3 out of 5 stars,D,10,6.9,0
+Tony Pollard,RB,DAL,CAR,22,13.9,0.6318,4 out of 5 stars,A,10,6.9,0.5833333333333334
+CeeDee Lamb,WR,DAL,CAR,34,16.7,0.4912,3 out of 5 stars,A+,10,6.9,0.40833333333333327
+Rico Dowdle,RB,DAL,CAR,13,6.3,0.4846,4 out of 5 stars,C-,10,6.9,-0.20000000000000018
+Jalen Tolbert,WR,DAL,CAR,10,3.9,0.39,3 out of 5 stars,F,10,6.9,0
+KaVontae Turpin,WR,DAL,CAR,10,1.7,0.17,3 out of 5 stars,F,10,6.9,0
+Deuce Vaughn,RB,DAL,CAR,10,0.4,0.04,4 out of 5 stars,F,10,6.9,0
+Jalen Brooks,WR,DAL,CAR,10,0,0,3 out of 5 stars,F,10,6.9,0
+Hunter Luepke,RB,DAL,CAR,10,0.2,0.02,4 out of 5 stars,F,10,6.9,0
+Adam Thielen,WR,CAR,DAL,17,11,0.6471,2 out of 5 stars,B+,10,6.9,0.5857142857142856
+DJ Chark Jr,WR,CAR,DAL,12,4.3,0.3583,2 out of 5 stars,F,10,6.9,-1.3000000000000003
+Miles Sanders,RB,CAR,DAL,13,4.9,0.3769,2 out of 5 stars,D,10,6.9,-0.6666666666666666
+Laviska Shenault Jr,WR,CAR,DAL,10,0.8,0.08,2 out of 5 stars,F,10,6.9,0
+Terrace Marshall Jr,WR,CAR,DAL,10,2.9,0.29,2 out of 5 stars,F,10,6.9,0
+Chuba Hubbard,RB,CAR,DAL,19,9,0.4737,2 out of 5 stars,C,10,6.9,0.23333333333333328
+Raheem Blackshear,RB,CAR,DAL,10,1.7,0.17,2 out of 5 stars,F,10,6.9,0
+Jonathan Mingo,WR,CAR,DAL,10,6.2,0.62,2 out of 5 stars,D+,10,6.9,0
+Allen Robinson II,WR,PIT,CLE,10,3.5,0.35,2 out of 5 stars,F,10,6.9,0
+Diontae Johnson,WR,PIT,CLE,15,9,0.6,2 out of 5 stars,C+,10,6.9,0.41999999999999993
+Miles Boykin,WR,PIT,CLE,10,0,0,2 out of 5 stars,F,10,6.9,0
+Najee Harris,RB,PIT,CLE,18,9.3,0.5167,2 out of 5 stars,C,10,6.9,0.30000000000000004
+George Pickens,WR,PIT,CLE,15,7.9,0.5267,2 out of 5 stars,C,10,6.9,0.2
+Calvin Austin III,WR,PIT,CLE,10,2.4,0.24,2 out of 5 stars,F,10,6.9,0
+Jaylen Warren,RB,PIT,CLE,16,10.1,0.6312,2 out of 5 stars,C+,10,6.9,0.5333333333333332
+Anthony McFarland Jr,RB,PIT,CLE,10,0,0,2 out of 5 stars,F,10,6.9,0
+Marquise Goodwin,WR,CLE,PIT,10,1,0.1,3 out of 5 stars,F,10,6.9,0
+Amari Cooper,WR,CLE,PIT,25,9.8,0.392,3 out of 5 stars,B-,10,6.9,0.19333333333333336
+Kareem Hunt,RB,CLE,PIT,18,7.5,0.4167,3 out of 5 stars,C,10,6.9,0.07499999999999996
+Elijah Moore,WR,CLE,PIT,15,6.6,0.44,3 out of 5 stars,C-,10,6.9,-0.060000000000000143
+David Bell,WR,CLE,PIT,10,0.2,0.02,3 out of 5 stars,F,10,6.9,0
+Pierre Strong Jr,RB,CLE,PIT,10,1.5,0.15,3 out of 5 stars,F,10,6.9,0
+Jerome Ford,RB,CLE,PIT,20,11.1,0.555,3 out of 5 stars,B-,10,6.9,0.41999999999999993
+Cedric Tillman,WR,CLE,PIT,10,3.3,0.33,3 out of 5 stars,F,10,6.9,0
+D Onta Foreman,RB,CHI,DET,18,7.5,0.4167,3 out of 5 stars,C,10,6.9,0.07499999999999996
+Trent Taylor,WR,CHI,DET,10,0,0,3 out of 5 stars,F,10,6.9,0
+DJ Moore,WR,CHI,DET,18,10.7,0.5944,3 out of 5 stars,B+,10,6.9,0.47499999999999987
+Travis Homer,RB,CHI,DET,10,0,0,3 out of 5 stars,F,10,6.9,0
+Khari Blasingame,RB,CHI,DET,10,0,0,3 out of 5 stars,F,10,6.9,0
+Darrynton Evans,RB,CHI,DET,10,0,0,-,F,10,6.9,0
+Darnell Mooney,WR,CHI,DET,12,6,0.5,3 out of 5 stars,D,10,6.9,-0.4500000000000002
+Tyler Scott,WR,CHI,DET,10,2.9,0.29,3 out of 5 stars,F,10,6.9,0
+Roschon Johnson,RB,CHI,DET,10,4,0.4,3 out of 5 stars,F,10,6.9,0
+Kalif Raymond,WR,DET,CHI,10,3.3,0.33,3 out of 5 stars,F,10,6.9,0
+Josh Reynolds,WR,DET,CHI,15,6.4,0.4267,3 out of 5 stars,D+,10,6.9,-0.1
+David Montgomery,RB,DET,CHI,30,12.5,0.4167,2 out of 5 stars,B+,10,6.9,0.27999999999999997
+Craig Reynolds,RB,DET,CHI,11,0.5,0.0455,2 out of 5 stars,F,10,6.9,-6.4
+Donovan Peoples Jones,WR,DET,CHI,10,2.1,0.21,3 out of 5 stars,F,10,6.9,0
+Amon Ra St Brown,WR,DET,CHI,32,15.6,0.4875,3 out of 5 stars,A+,10,6.9,0.39545454545454545
+Jameson Williams,WR,DET,CHI,10,4.9,0.49,3 out of 5 stars,D,10,6.9,0
+Jahmyr Gibbs,RB,DET,CHI,24,14.2,0.5917,2 out of 5 stars,A,10,6.9,0.5214285714285714
+Antoine Green,WR,DET,CHI,10,0.2,0.02,3 out of 5 stars,F,10,6.9,0
+Khalil Herbert,RB,CHI,DET,19,6.4,0.3368,3 out of 5 stars,C-,10,6.9,-0.05555555555555555
+Equanimeous St Brown,WR,CHI,DET,10,1.9,0.19,3 out of 5 stars,F,10,6.9,0
+Zach Pascal,WR,ARI,HOU,10,0.9,0.09,2 out of 5 stars,F,10,6.9,0
+Marquise Brown,WR,ARI,HOU,16,10.9,0.6812,2 out of 5 stars,B+,10,6.9,0.6666666666666666
+Greg Dortch,WR,ARI,HOU,10,0.4,0.04,2 out of 5 stars,F,10,6.9,0
+Rondale Moore,WR,ARI,HOU,10,6.9,0.69,2 out of 5 stars,C,10,6.9,0
+Keaontay Ingram,RB,ARI,HOU,11,2.7,0.2455,3 out of 5 stars,F,10,6.9,-4.2
+Michael Wilson,WR,ARI,HOU,13,7.6,0.5846,2 out of 5 stars,C,10,6.9,0.2333333333333331
+Emari Demercado,RB,ARI,HOU,13,0.3,0.0231,3 out of 5 stars,F,10,6.9,-2.2
+Robert Woods,WR,HOU,ARI,14,5.8,0.4143,5 out of 5 stars,D,10,6.9,-0.27500000000000013
+Dare Ogunbowale,RB,HOU,ARI,10,0.4,0.04,4 out of 5 stars,F,10,6.9,0
+Mike Boone,RB,HOU,ARI,12,3.1,0.2583,4 out of 5 stars,F,10,6.9,-1.9000000000000001
+Devin Singletary,RB,HOU,ARI,20,11.6,0.58,4 out of 5 stars,B,10,6.9,0.4699999999999999
+Nico Collins,WR,HOU,ARI,20,10.3,0.515,5 out of 5 stars,B,10,6.9,0.34
+John Metchie III,WR,HOU,ARI,10,2.1,0.21,5 out of 5 stars,F,10,6.9,0
+Dameon Pierce,RB,HOU,ARI,16,2.1,0.1312,4 out of 5 stars,F,10,6.9,-0.8000000000000002
+Tank Dell,WR,HOU,ARI,21,11.4,0.5429,5 out of 5 stars,A-,10,6.9,0.4090909090909091
+Xavier Hutchinson,WR,HOU,ARI,10,0.2,0.02,5 out of 5 stars,F,10,6.9,0
+James Conner,RB,ARI,HOU,18,11.6,0.6444,3 out of 5 stars,B,10,6.9,0.5874999999999999
+Davante Adams,WR,LV,MIA,20,12.3,0.615,3 out of 5 stars,A,10,6.9,0.54
+Ameer Abdullah,RB,LV,MIA,10,1.9,0.19,5 out of 5 stars,F,10,6.9,0
+DeAndre Carter,WR,LV,MIA,10,0.8,0.08,3 out of 5 stars,F,10,6.9,0
+Jakob Johnson,RB,LV,MIA,10,0,0,-,F,10,6.9,0
+Josh Jacobs,RB,LV,MIA,25,14.2,0.568,5 out of 5 stars,A,10,6.9,0.4866666666666666
+Hunter Renfrow,WR,LV,MIA,10,3.7,0.37,3 out of 5 stars,F,10,6.9,0
+Jakobi Meyers,WR,LV,MIA,18,8.1,0.45,3 out of 5 stars,C+,10,6.9,0.1499999999999999
+Zamir White,RB,LV,MIA,10,1.4,0.14,5 out of 5 stars,F,10,6.9,0
+Tre Tucker,WR,LV,MIA,10,2.3,0.23,3 out of 5 stars,F,10,6.9,0
+Raheem Mostert,RB,MIA,LV,28,11.7,0.4179,5 out of 5 stars,B+,10,6.9,0.2666666666666666
+Tyreek Hill,WR,MIA,LV,39,18,0.4615,3 out of 5 stars,A+,10,6.9,0.38275862068965516
+Cedrick Wilson Jr,WR,MIA,LV,10,3,0.3,3 out of 5 stars,F,10,6.9,0
+Braxton Berrios,WR,MIA,LV,10,2.9,0.29,3 out of 5 stars,F,10,6.9,0
+Jeff Wilson Jr,RB,MIA,LV,12,2.6,0.2167,5 out of 5 stars,F,10,6.9,-2.1500000000000004
+Alec Ingold,RB,MIA,LV,10,0.9,0.09,5 out of 5 stars,F,10,6.9,0
+Chase Claypool,WR,MIA,LV,10,0.4,0.04,3 out of 5 stars,F,10,6.9,0
+Salvon Ahmed,RB,MIA,LV,13,0.4,0.0308,5 out of 5 stars,F,10,6.9,-2.1666666666666665
+Jaylen Waddle,WR,MIA,LV,21,12.6,0.6,3 out of 5 stars,A,10,6.9,0.5181818181818181
+De Von Achane,RB,MIA,LV,35,12.5,0.3571,5 out of 5 stars,A-,10,6.9,0.22399999999999998
+River Cracraft,WR,MIA,LV,10,1.5,0.15,3 out of 5 stars,F,10,6.9,0
+Sterling Shepard,WR,NYG,WAS,10,1.6,0.16,4 out of 5 stars,F,10,6.9,0
+Matt Breida,RB,NYG,WAS,10,3.8,0.38,3 out of 5 stars,F,10,6.9,0
+Saquon Barkley,RB,NYG,WAS,26,12.2,0.4692,3 out of 5 stars,B,10,6.9,0.33124999999999993
+Parris Campbell,WR,NYG,WAS,10,2.1,0.21,4 out of 5 stars,F,10,6.9,0
+Darius Slayton,WR,NYG,WAS,13,5.5,0.4231,4 out of 5 stars,D,10,6.9,-0.4666666666666668
+Isaiah Hodgins,WR,NYG,WAS,10,3.3,0.33,4 out of 5 stars,F,10,6.9,0
+Wan Dale Robinson,WR,NYG,WAS,14,5.6,0.4,4 out of 5 stars,D,10,6.9,-0.3250000000000002
+Jashaun Corbin,RB,NYG,WAS,10,0.7,0.07,3 out of 5 stars,F,10,6.9,0
+Jalin Hyatt,WR,NYG,WAS,13,3,0.2308,4 out of 5 stars,F,10,6.9,-1.3
+Jamison Crowder,WR,WAS,NYG,10,2.6,0.26,3 out of 5 stars,F,10,6.9,0
+Curtis Samuel,WR,WAS,NYG,16,6.8,0.425,3 out of 5 stars,C-,10,6.9,-0.016666666666666757
+Byron Pringle,WR,WAS,NYG,10,1.9,0.19,3 out of 5 stars,F,10,6.9,0
+Terry McLaurin,WR,WAS,NYG,21,11.2,0.5333,3 out of 5 stars,A-,10,6.9,0.3909090909090908
+Antonio Gibson,RB,WAS,NYG,17,4.4,0.2588,4 out of 5 stars,C-,10,6.9,-0.35714285714285715
+Dyami Brown,WR,WAS,NYG,10,3.1,0.31,3 out of 5 stars,F,10,6.9,0
+Jahan Dotson,WR,WAS,NYG,16,8.2,0.5125,3 out of 5 stars,C+,10,6.9,0.21666666666666648
+Chris Rodriguez Jr,RB,WAS,NYG,10,1,0.1,4 out of 5 stars,F,10,6.9,0
+Keenan Allen,WR,LAC,GB,29,14.9,0.5138,2 out of 5 stars,A+,10,6.9,0.42105263157894735
+Austin Ekeler,RB,LAC,GB,35,17.5,0.5,4 out of 5 stars,A+,10,6.9,0.424
+Jalen Guyton,WR,LAC,GB,14,6,0.4286,2 out of 5 stars,D,10,6.9,-0.2250000000000001
+Joshua Kelley,RB,LAC,GB,11,4.6,0.4182,4 out of 5 stars,D,10,6.9,-2.3000000000000007
+Simi Fehoko,WR,LAC,GB,10,0.8,0.08,2 out of 5 stars,F,10,6.9,0
+Isaiah Spiller,RB,LAC,GB,10,0.3,0.03,4 out of 5 stars,F,10,6.9,0
+Quentin Johnston,WR,LAC,GB,12,6.7,0.5583,2 out of 5 stars,C-,10,6.9,-0.10000000000000009
+Derius Davis,WR,LAC,GB,10,2.6,0.26,2 out of 5 stars,F,10,6.9,0
+Elijah Dotson,RB,LAC,GB,10,0,0,4 out of 5 stars,F,10,6.9,0
+Aaron Jones,RB,GB,LAC,16,12.9,0.8062,2 out of 5 stars,A-,10,6.9,1
+AJ Dillon,RB,GB,LAC,15,7.1,0.4733,2 out of 5 stars,C,10,6.9,0.039999999999999855
+Christian Watson,WR,GB,LAC,16,7.9,0.4938,4 out of 5 stars,C,10,6.9,0.16666666666666666
+Romeo Doubs,WR,GB,LAC,19,7.8,0.4105,4 out of 5 stars,C,10,6.9,0.09999999999999994
+Jayden Reed,WR,GB,LAC,20,7.2,0.36,4 out of 5 stars,C,10,6.9,0.02999999999999998
+Dontayvion Wicks,WR,GB,LAC,12,4,0.3333,4 out of 5 stars,F,10,6.9,-1.4500000000000002
+Malik Heath,WR,GB,LAC,10,0,0,4 out of 5 stars,F,10,6.9,0
+Emanuel Wilson,RB,GB,LAC,10,0.5,0.05,2 out of 5 stars,F,10,6.9,0
+DeAndre Hopkins,WR,TEN,JAC,21,11.1,0.5286,3 out of 5 stars,B+,10,6.9,0.3818181818181818
+Derrick Henry,RB,TEN,JAC,29,11.7,0.4034,3 out of 5 stars,B,10,6.9,0.2526315789473684
+Chris Moore,WR,TEN,JAC,10,2.6,0.26,3 out of 5 stars,F,10,6.9,0
+Nick Westbrook Ikhine,WR,TEN,JAC,12,4.2,0.35,3 out of 5 stars,F,10,6.9,-1.35
+Treylon Burks,WR,TEN,JAC,12,2,0.1667,3 out of 5 stars,F,10,6.9,-2.45
+Kyle Philips,WR,TEN,JAC,11,4.9,0.4455,3 out of 5 stars,D-,10,6.9,-2
+Tyjae Spears,RB,TEN,JAC,14,6.9,0.4929,3 out of 5 stars,C-,10,6.9,0
+Zay Jones,WR,JAC,TEN,16,2.3,0.1437,4 out of 5 stars,F,10,6.9,-0.7666666666666667
+Jamal Agnew,WR,JAC,TEN,10,0.8,0.08,4 out of 5 stars,F,10,6.9,0
+Calvin Ridley,WR,JAC,TEN,18,10,0.5556,4 out of 5 stars,B,10,6.9,0.38749999999999996
+Christian Kirk,WR,JAC,TEN,21,11.3,0.5381,4 out of 5 stars,A-,10,6.9,0.4
+D Ernest Johnson,RB,JAC,TEN,10,2.3,0.23,3 out of 5 stars,F,10,6.9,0
+Travis Etienne Jr,RB,JAC,TEN,32,15,0.4688,3 out of 5 stars,A+,10,6.9,0.36818181818181817
+Tim Jones,WR,JAC,TEN,10,2.3,0.23,4 out of 5 stars,F,10,6.9,0
+Tank Bigsby,RB,JAC,TEN,10,3.2,0.32,3 out of 5 stars,F,10,6.9,0
+Elijah Cooks,WR,JAC,TEN,10,0.5,0.05,4 out of 5 stars,F,10,6.9,0
+Mike Evans,WR,TB,SF,27,12.2,0.4519,4 out of 5 stars,A,10,6.9,0.3117647058823529
+Chris Godwin,WR,TB,SF,18,9.4,0.5222,4 out of 5 stars,B-,10,6.9,0.3125
+Chase Edmonds,RB,TB,SF,10,3.7,0.37,2 out of 5 stars,F,10,6.9,0
+Ke Shawn Vaughn,RB,TB,SF,10,0,0,2 out of 5 stars,F,10,6.9,0
+Rachaad White,RB,TB,SF,19,11.4,0.6,2 out of 5 stars,B-,10,6.9,0.5
+Deven Thompkins,WR,TB,SF,10,1.9,0.19,4 out of 5 stars,F,10,6.9,0
+Trey Palmer,WR,TB,SF,11,4.7,0.4273,4 out of 5 stars,D-,10,6.9,-2.2
+Rakim Jarrett,WR,TB,SF,10,1.4,0.14,4 out of 5 stars,F,10,6.9,0
+Sean Tucker,RB,TB,SF,10,0,0,2 out of 5 stars,F,10,6.9,0
+Kyle Juszczyk,RB,SF,TB,10,1.8,0.18,2 out of 5 stars,F,10,6.9,0
+Christian McCaffrey,RB,SF,TB,37,20.4,0.5514,2 out of 5 stars,A+,10,6.9,0.49999999999999994
+Ray Ray McCloud III,WR,SF,TB,10,1.3,0.13,4 out of 5 stars,F,10,6.9,0
+Deebo Samuel,WR,SF,TB,24,11.7,0.4875,4 out of 5 stars,A,10,6.9,0.3428571428571428
+Brandon Aiyuk,WR,SF,TB,26,12.4,0.4769,4 out of 5 stars,A,10,6.9,0.34375
+Jauan Jennings,WR,SF,TB,13,3.5,0.2692,4 out of 5 stars,F,10,6.9,-1.1333333333333335
+Elijah Mitchell,RB,SF,TB,10,4.2,0.42,2 out of 5 stars,F,10,6.9,0
+Jordan Mason,RB,SF,TB,10,0.5,0.05,2 out of 5 stars,F,10,6.9,0
+Ronnie Bell,WR,SF,TB,10,0.8,0.08,4 out of 5 stars,F,10,6.9,0
+Willie Snead IV,WR,SF,TB,10,0.2,0.02,4 out of 5 stars,F,10,6.9,0
+Dalvin Cook,RB,NYJ,BUF,10,3.8,0.38,4 out of 5 stars,F,10,6.9,0
+Nick Bawden,RB,NYJ,BUF,10,0,0,4 out of 5 stars,F,10,6.9,0
+Allen Lazard,WR,NYJ,BUF,11,5.4,0.4909,5 out of 5 stars,D,10,6.9,-1.5
+Michael Carter,RB,ARI,BUF,10,1.4,0.14,3 out of 5 stars,F,10,6.9,0
+Garrett Wilson,WR,NYJ,BUF,20,12.1,0.605,5 out of 5 stars,A,10,6.9,0.5199999999999999
+Breece Hall,RB,NYJ,BUF,28,13.4,0.4786,4 out of 5 stars,A,10,6.9,0.3611111111111111
+Irvin Charles,WR,NYJ,BUF,10,0,0,5 out of 5 stars,F,10,6.9,0
+Israel Abanikanda,RB,NYJ,BUF,10,0.4,0.04,4 out of 5 stars,F,10,6.9,0
+Xavier Gipson,WR,NYJ,BUF,10,2.9,0.29,5 out of 5 stars,F,10,6.9,0
+Latavius Murray,RB,BUF,NYJ,10,5.9,0.59,2 out of 5 stars,D+,10,6.9,0
+Stefon Diggs,WR,BUF,NYJ,28,13,0.4643,2 out of 5 stars,A,10,6.9,0.33888888888888885
+Trent Sherfield,WR,BUF,NYJ,10,2,0.2,2 out of 5 stars,F,10,6.9,0
+Ty Johnson,RB,BUF,NYJ,10,0,0,2 out of 5 stars,F,10,6.9,0
+Deonte Harty,WR,BUF,NYJ,10,1.7,0.17,2 out of 5 stars,F,10,6.9,0
+Gabe Davis,WR,BUF,NYJ,13,7.9,0.6077,2 out of 5 stars,C,10,6.9,0.3333333333333333
+Reggie Gilliam,RB,BUF,NYJ,10,0,0,2 out of 5 stars,F,10,6.9,0
+James Cook,RB,BUF,NYJ,17,10.7,0.6294,2 out of 5 stars,B-,10,6.9,0.5428571428571427
+Khalil Shakir,WR,BUF,NYJ,10,6.2,0.62,2 out of 5 stars,D+,10,6.9,0
+Malik Taylor,WR,NYJ,BUF,10,1.7,0.17,5 out of 5 stars,F,10,6.9,0
+Tyler Lockett,WR,SEA,LA,18,10.7,0.5944,2 out of 5 stars,B+,10,6.9,0.47499999999999987
+DK Metcalf,WR,SEA,LA,19,11.4,0.6,2 out of 5 stars,A-,10,6.9,0.5
+DeeJay Dallas,RB,SEA,LA,10,0.3,0.03,3 out of 5 stars,F,10,6.9,0
+Kenneth Walker III,RB,SEA,LA,24,12.7,0.5292,3 out of 5 stars,A-,10,6.9,0.4142857142857142
+Jaxon Smith Njigba,WR,SEA,LA,15,7.8,0.52,2 out of 5 stars,C,10,6.9,0.17999999999999988
+Zach Charbonnet,RB,SEA,LA,14,7.3,0.5214,3 out of 5 stars,C,10,6.9,0.09999999999999987
+Jake Bobo,WR,SEA,LA,11,3.1,0.2818,2 out of 5 stars,F,10,6.9,-3.8000000000000003
+Demarcus Robinson,WR,LA,SEA,10,0.4,0.04,3 out of 5 stars,F,10,6.9,0
+Cooper Kupp,WR,LA,SEA,26,13.3,0.5115,3 out of 5 stars,A,10,6.9,0.4
+Royce Freeman,RB,LA,SEA,15,7.3,0.4867,3 out of 5 stars,C,10,6.9,0.07999999999999989
+Tutu Atwell,WR,LA,SEA,13,6.6,0.5077,3 out of 5 stars,C-,10,6.9,-0.10000000000000024
+Ben Skowronek,WR,LA,SEA,10,1.5,0.15,3 out of 5 stars,F,10,6.9,0
+Austin Trammell,WR,LA,SEA,10,0,0,3 out of 5 stars,F,10,6.9,0
+Puka Nacua,WR,LA,SEA,23,12.1,0.5261,3 out of 5 stars,A,10,6.9,0.39999999999999997
+Zach Evans,RB,LA,SEA,10,0,0,3 out of 5 stars,F,10,6.9,0
+Darrell Henderson Jr,RB,LA,SEA,14,9.4,0.6714,3 out of 5 stars,C+,10,6.9,0.625
+C J Ham,RB,MIN,DEN,10,0.8,0.08,4 out of 5 stars,F,10,6.9,0
+Brandon Powell,WR,MIN,DEN,11,3.2,0.2909,4 out of 5 stars,F,10,6.9,-3.7
+Alexander Mattison,RB,MIN,DEN,18,0.9,0.05,4 out of 5 stars,F,10,6.9,-0.75
+K J Osborn,WR,MIN,DEN,15,5.1,0.34,4 out of 5 stars,D,10,6.9,-0.36000000000000015
+Kene Nwangwu,RB,MIN,DEN,12,1.7,0.1417,4 out of 5 stars,F,10,6.9,-2.6
+Ty Chandler,RB,MIN,DEN,15,10.1,0.6733,4 out of 5 stars,C+,10,6.9,0.6399999999999999
+Jordan Addison,WR,MIN,DEN,23,9.1,0.3957,4 out of 5 stars,B-,10,6.9,0.16923076923076918
+Michael Burton,RB,DEN,MIN,10,0,0,2 out of 5 stars,F,10,6.9,0
+Samaje Perine,RB,DEN,MIN,10,4.6,0.46,2 out of 5 stars,D-,10,6.9,0
+Courtland Sutton,WR,DEN,MIN,18,10.3,0.5722,3 out of 5 stars,B,10,6.9,0.42500000000000004
+Lil Jordan Humphrey,WR,DEN,MIN,10,1.9,0.19,3 out of 5 stars,F,10,6.9,0
+Jerry Jeudy,WR,DEN,MIN,17,8.1,0.4765,3 out of 5 stars,C+,10,6.9,0.17142857142857132
+Javonte Williams,RB,DEN,MIN,18,13,0.7222,2 out of 5 stars,A,10,6.9,0.7625
+Marvin Mims Jr,WR,DEN,MIN,13,4.4,0.3385,3 out of 5 stars,F,10,6.9,-0.8333333333333334
+Jaleel McLaughlin,RB,DEN,MIN,13,5.2,0.4,2 out of 5 stars,D,10,6.9,-0.5666666666666668
+Jalen Nailor,WR,MIN,DEN,10,1.1,0.11,4 out of 5 stars,F,10,6.9,0
+Justin Jefferson,WR,MIN,DEN,37,6.4,0.173,4 out of 5 stars,C+,10,6.9,-0.018518518518518517
+Dallas Goedert,TE,PHI,KC,17,0,0,3 out of 5 stars,F,10,5.8,-0.8285714285714285
+Albert Okwuegbunam,TE,PHI,KC,10,1.2,0.12,3 out of 5 stars,F,10,5.8,0
+Jack Stoll,TE,PHI,KC,10,2,0.2,3 out of 5 stars,F,10,5.8,0
+Grant Calcaterra,TE,PHI,KC,10,1.4,0.14,3 out of 5 stars,F,10,5.8,0
+Travis Kelce,TE,KC,PHI,33,13.8,0.4182,4 out of 5 stars,A+,10,5.8,0.34782608695652173
+Blake Bell,TE,KC,PHI,10,0.8,0.08,4 out of 5 stars,F,10,5.8,0
+Noah Gray,TE,KC,PHI,10,2.8,0.28,4 out of 5 stars,F,10,5.8,0
+Irv Smith Jr,TE,CIN,BAL,10,3.4,0.34,2 out of 5 stars,F,10,5.8,0
+Drew Sample,TE,CIN,BAL,10,1.8,0.18,2 out of 5 stars,F,10,5.8,0
+Mitchell Wilcox,TE,CIN,BAL,10,0,0,2 out of 5 stars,F,10,5.8,0
+Mark Andrews,TE,BAL,CIN,28,10.8,0.3857,4 out of 5 stars,A,10,5.8,0.27777777777777785
+Charlie Kolar,TE,BAL,CIN,10,0,0,4 out of 5 stars,F,10,5.8,0
+Isaiah Likely,TE,BAL,CIN,13,1.6,0.1231,4 out of 5 stars,F,10,5.8,-1.3999999999999997
+Tanner Hudson,TE,CIN,BAL,10,5.2,0.52,2 out of 5 stars,D-,10,5.8,0
+Sean McKeon,TE,DAL,CAR,10,0.5,0.05,3 out of 5 stars,F,10,5.8,0
+Jake Ferguson,TE,DAL,CAR,15,8.9,0.5933,3 out of 5 stars,C+,10,5.8,0.6200000000000001
+Luke Schoonmaker,TE,DAL,CAR,10,1.5,0.15,3 out of 5 stars,F,10,5.8,0
+Hayden Hurst,TE,CAR,DAL,10,2.5,0.25,4 out of 5 stars,F,10,5.8,0
+Stephen Sullivan,TE,CAR,DAL,10,1.1,0.11,4 out of 5 stars,F,10,5.8,0
+Tommy Tremble,TE,CAR,DAL,10,2.8,0.28,4 out of 5 stars,F,10,5.8,0
+Ian Thomas,TE,CAR,DAL,10,0.2,0.02,4 out of 5 stars,F,10,5.8,0
+Connor Heyward,TE,PIT,CLE,10,2.6,0.26,2 out of 5 stars,F,10,5.8,0
+Darnell Washington,TE,PIT,CLE,10,0.6,0.06,2 out of 5 stars,F,10,5.8,0
+David Njoku,TE,CLE,PIT,15,6.8,0.4533,3 out of 5 stars,C-,10,5.8,0.2
+Jordan Akins,TE,CLE,PIT,10,1,0.1,3 out of 5 stars,F,10,5.8,0
+Harrison Bryant,TE,CLE,PIT,10,1.5,0.15,3 out of 5 stars,F,10,5.8,0
+Pat Freiermuth,TE,PIT,CLE,15,3.3,0.22,2 out of 5 stars,F,10,5.8,-0.5
+Marcedes Lewis,TE,CHI,DET,10,0.2,0.02,3 out of 5 stars,F,10,5.8,0
+Robert Tonyan,TE,CHI,DET,10,1.6,0.16,3 out of 5 stars,F,10,5.8,0
+Cole Kmet,TE,CHI,DET,21,8.7,0.4143,3 out of 5 stars,C+,10,5.8,0.2636363636363636
+Brock Wright,TE,DET,CHI,10,1.9,0.19,4 out of 5 stars,F,10,5.8,0
+James Mitchell,TE,DET,CHI,10,0,0,4 out of 5 stars,F,10,5.8,0
+Sam LaPorta,TE,DET,CHI,24,9.7,0.4042,4 out of 5 stars,B+,10,5.8,0.2785714285714285
+Geoff Swaim,TE,ARI,HOU,10,1.7,0.17,3 out of 5 stars,F,10,5.8,0
+Trey McBride,TE,ARI,HOU,19,9.8,0.5158,3 out of 5 stars,A-,10,5.8,0.44444444444444453
+Elijah Higgins,TE,ARI,HOU,10,0.9,0.09,3 out of 5 stars,F,10,5.8,0
+Eric Saubert,TE,HOU,ARI,10,0.8,0.08,2 out of 5 stars,F,10,5.8,0
+Dalton Schultz,TE,HOU,ARI,19,9,0.4737,2 out of 5 stars,B,10,5.8,0.35555555555555557
+Brevin Jordan,TE,HOU,ARI,10,0.4,0.04,2 out of 5 stars,F,10,5.8,0
+Dalton Keene,TE,HOU,ARI,10,0,0,2 out of 5 stars,F,10,5.8,0
+Austin Hooper,TE,LV,MIA,10,2.3,0.23,4 out of 5 stars,F,10,5.8,0
+Jesper Horsted,TE,LV,MIA,10,0,0,4 out of 5 stars,F,10,5.8,0
+Michael Mayer,TE,LV,MIA,13,5.3,0.4077,4 out of 5 stars,D,10,5.8,-0.16666666666666666
+Tyler Kroft,TE,MIA,LV,10,0,0,3 out of 5 stars,F,10,5.8,0
+Durham Smythe,TE,MIA,LV,10,2,0.2,3 out of 5 stars,F,10,5.8,0
+Julian Hill,TE,MIA,LV,10,1,0.1,3 out of 5 stars,F,10,5.8,0
+Daniel Bellinger,TE,NYG,WAS,10,4.1,0.41,4 out of 5 stars,F,10,5.8,0
+Logan Thomas,TE,WAS,NYG,14,7.7,0.55,2 out of 5 stars,C,10,5.8,0.4750000000000001
+John Bates,TE,WAS,NYG,10,2.5,0.25,2 out of 5 stars,F,10,5.8,0
+Cole Turner,TE,WAS,NYG,10,0,0,2 out of 5 stars,F,10,5.8,0
+Lawrence Cager,TE,NYG,WAS,10,0,0,4 out of 5 stars,F,10,5.8,0
+Tyree Jackson,TE,NYG,WAS,10,0.5,0.05,4 out of 5 stars,F,10,5.8,0
+Gerald Everett,TE,LAC,GB,12,3.7,0.3083,2 out of 5 stars,D-,10,5.8,-1.0499999999999998
+Donald Parham Jr,TE,LAC,GB,11,4.1,0.3727,2 out of 5 stars,F,10,5.8,-1.7000000000000002
+Stone Smartt,TE,LAC,GB,10,1.5,0.15,2 out of 5 stars,F,10,5.8,0
+Josiah Deguara,TE,GB,LAC,10,0.5,0.05,3 out of 5 stars,F,10,5.8,0
+Luke Musgrave,TE,GB,LAC,14,6.3,0.45,3 out of 5 stars,C-,10,5.8,0.125
+Tucker Kraft,TE,GB,LAC,10,1.4,0.14,3 out of 5 stars,F,10,5.8,0
+Nick Vannett,TE,LAC,GB,10,0,0,2 out of 5 stars,F,10,5.8,0
+Kevin Rader,TE,TEN,JAC,10,0,0,3 out of 5 stars,F,10,5.8,0
+Trevon Wesco,TE,TEN,JAC,10,0.4,0.04,3 out of 5 stars,F,10,5.8,0
+Chigoziem Okonkwo,TE,TEN,JAC,10,5.8,0.58,3 out of 5 stars,D+,10,5.8,0
+Josh Whyle,TE,TEN,JAC,10,1.9,0.19,3 out of 5 stars,F,10,5.8,0
+Evan Engram,TE,JAC,TEN,18,9.2,0.5111,3 out of 5 stars,B-,10,5.8,0.42499999999999993
+Luke Farrell,TE,JAC,TEN,10,1,0.1,3 out of 5 stars,F,10,5.8,0
+Brenton Strange,TE,JAC,TEN,10,1.4,0.14,3 out of 5 stars,F,10,5.8,0
+Cade Otton,TE,TB,SF,13,5.9,0.4538,2 out of 5 stars,D+,10,5.8,0.03333333333333351
+Ko Kieft,TE,TB,SF,10,0,0,2 out of 5 stars,F,10,5.8,0
+Payne Durham,TE,TB,SF,10,0.9,0.09,2 out of 5 stars,F,10,5.8,0
+George Kittle,TE,SF,TB,21,9.4,0.4476,3 out of 5 stars,B,10,5.8,0.3272727272727273
+Ross Dwelley,TE,SF,TB,10,0.2,0.02,3 out of 5 stars,F,10,5.8,0
+Charlie Woerner,TE,SF,TB,10,0,0,3 out of 5 stars,F,10,5.8,0
+C J Uzomah,TE,NYJ,BUF,10,1.7,0.17,4 out of 5 stars,F,10,5.8,0
+Tyler Conklin,TE,NYJ,BUF,11,6.2,0.5636,4 out of 5 stars,D+,10,5.8,0.40000000000000036
+Jeremy Ruckert,TE,NYJ,BUF,10,1,0.1,4 out of 5 stars,F,10,5.8,0
+Quintin Morris,TE,BUF,NYJ,10,0.5,0.05,2 out of 5 stars,F,10,5.8,0
+Dalton Kincaid,TE,BUF,NYJ,17,9.6,0.5647,2 out of 5 stars,B,10,5.8,0.5428571428571428
+Will Dissly,TE,SEA,LA,10,2,0.2,4 out of 5 stars,F,10,5.8,0
+Noah Fant,TE,SEA,LA,12,4.1,0.3417,4 out of 5 stars,F,10,5.8,-0.8500000000000001
+Colby Parkinson,TE,SEA,LA,10,2.7,0.27,4 out of 5 stars,F,10,5.8,0
+Tyler Higbee,TE,LA,SEA,11,5.7,0.5182,3 out of 5 stars,D,10,5.8,-0.09999999999999964
+Brycen Hopkins,TE,LA,SEA,10,0.8,0.08,3 out of 5 stars,F,10,5.8,0
+Davis Allen,TE,LA,SEA,10,0,0,3 out of 5 stars,F,10,5.8,0
+Johnny Mundt,TE,MIN,DEN,10,1.9,0.19,3 out of 5 stars,F,10,5.8,0
+T J Hockenson,TE,MIN,DEN,26,11.7,0.45,3 out of 5 stars,A,10,5.8,0.36874999999999997
+Josh Oliver,TE,MIN,DEN,10,1.7,0.17,3 out of 5 stars,F,10,5.8,0
+Chris Manhertz,TE,DEN,MIN,10,1,0.1,3 out of 5 stars,F,10,5.8,0
+Adam Trautman,TE,DEN,MIN,10,3.3,0.33,3 out of 5 stars,F,10,5.8,0
+Nate Adkins,TE,DEN,MIN,10,0,0,3 out of 5 stars,F,10,5.8,0
+Philadelphia Eagles,DEF,PHI,KC,14,5.8,0.4143,3 out of 5 stars,D,10,5.6,0.050000000000000044
+Kansas City Chiefs,DEF,KC,PHI,16,6,0.375,3 out of 5 stars,C,10,5.6,0.06666666666666672
+Cincinnati Bengals,DEF,CIN,BAL,15,5.8,0.3867,2 out of 5 stars,D+,10,5.6,0.040000000000000036
+Baltimore Ravens,DEF,BAL,CIN,18,6.8,0.3778,3 out of 5 stars,B-,10,5.6,0.15000000000000002
+Dallas Cowboys,DEF,DAL,CAR,22,8.6,0.3909,5 out of 5 stars,A+,10,5.6,0.25
+Carolina Panthers,DEF,CAR,DAL,10,5.5,0.55,1 out of 5 stars,F,10,5.6,0
+Pittsburgh Steelers,DEF,PIT,CLE,20,7.1,0.355,5 out of 5 stars,B,10,5.6,0.15
+Cleveland Browns,DEF,CLE,PIT,20,7.9,0.395,2 out of 5 stars,B+,10,5.6,0.23000000000000007
+Chicago Bears,DEF,CHI,DET,10,4.9,0.49,2 out of 5 stars,F,10,5.6,0
+Detroit Lions,DEF,DET,CHI,18,7.3,0.4056,5 out of 5 stars,B+,10,5.6,0.21250000000000002
+Arizona Cardinals,DEF,ARI,HOU,10,5.4,0.54,1 out of 5 stars,F,10,5.6,0
+Houston Texans,DEF,HOU,ARI,13,6,0.4615,4 out of 5 stars,C,10,5.6,0.13333333333333344
+Las Vegas Raiders,DEF,LV,MIA,13,5.2,0.4,3 out of 5 stars,F,10,5.6,-0.13333333333333316
+Miami Dolphins,DEF,MIA,LV,13,6.9,0.5308,4 out of 5 stars,B,10,5.6,0.43333333333333357
+New York Giants,DEF,NYG,WAS,12,6,0.5,5 out of 5 stars,C-,10,5.6,0.20000000000000018
+Washington Commanders,DEF,WAS,NYG,14,8.3,0.5929,5 out of 5 stars,A,10,5.6,0.6750000000000003
+Los Angeles Chargers,DEF,LAC,GB,18,6.7,0.3722,3 out of 5 stars,B-,10,5.6,0.13750000000000007
+Green Bay Packers,DEF,GB,LAC,11,5.6,0.5091,1 out of 5 stars,D-,10,5.6,0
+Tennessee Titans,DEF,TEN,JAC,12,5.7,0.475,3 out of 5 stars,D,10,5.6,0.050000000000000266
+Jacksonville Jaguars,DEF,JAC,TEN,18,6.8,0.3778,3 out of 5 stars,B,10,5.6,0.15000000000000002
+Tampa Bay Buccaneers,DEF,TB,SF,11,5.6,0.5091,1 out of 5 stars,F,10,5.6,0
+San Francisco 49ers,DEF,SF,TB,13,8,0.6154,3 out of 5 stars,A,10,5.6,0.8000000000000002
+New York Jets,DEF,NYJ,BUF,15,6.1,0.4067,1 out of 5 stars,C,10,5.6,0.1
+Buffalo Bills,DEF,BUF,NYJ,17,8,0.4706,5 out of 5 stars,A,10,5.6,0.3428571428571429
+Seattle Seahawks,DEF,SEA,LA,16,6.2,0.3875,2 out of 5 stars,C+,10,5.6,0.10000000000000009
+Los Angeles Rams,DEF,LA,SEA,10,5.6,0.56,2 out of 5 stars,D,10,5.6,0
+Minnesota Vikings,DEF,MIN,DEN,15,6.4,0.4267,4 out of 5 stars,C+,10,5.6,0.16000000000000014
+Denver Broncos,DEF,DEN,MIN,12,5.9,0.4917,3 out of 5 stars,C-,10,5.6,0.15000000000000036
