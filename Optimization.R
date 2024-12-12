@@ -9,6 +9,8 @@ library("lpSolve")
 Char_Week <- 14
 Year <- 2024
 
+#changes bam bam
+
 optim <- read_csv(eval(paste("~/R Stuff/FantasyPros/Tidy/", Year, "/Week_", Char_Week, ".csv", sep = "")))
 optim_wo <- read_csv(eval(paste("~/R Stuff/FantasyPros/Tidy/", Year, "/Week_", Char_Week, "_With_Betting_Odds.csv", sep = "")))
 
