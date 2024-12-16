@@ -25,4 +25,4 @@ Csv files downloaded weekly from [FantasyPros](https://www.fantasypros.com/nfl/r
 - Projected Fantasy Points
 
 ### Tidy
-Csv Files joining Yahoo csv file and FantasyPros downloads by player. 
+Csv files joining Yahoo csv file and FantasyPros csv files by player. 
