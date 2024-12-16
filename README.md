@@ -26,3 +26,12 @@ Csv files downloaded weekly from [FantasyPros](https://www.fantasypros.com/nfl/r
 
 ### Tidy
 Csv files joining Yahoo csv file and FantasyPros csv files by player. 
+
+
+# Notes
+- FantasyPros Projections and Betting Over/Unders are not a 1 to 1 comparison
+
+
+# Info
+
+Date Created: September 9 2023
