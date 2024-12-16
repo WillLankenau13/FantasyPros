@@ -1,17 +1,14 @@
 library("tidyverse")
-library("lubridate")
-library("incidence")
-library("stringr")
-library("janitor")
 library("lpSolve")
 
-
-Char_Week <- 14
+#Year and Week
+Char_Week <- 15
 Year <- 2024
 
-#changes bam bam
-
+#Download combined data
 optim <- read_csv(eval(paste("~/R Stuff/FantasyPros/Tidy/", Year, "/Week_", Char_Week, ".csv", sep = "")))
+
+#Data with betting over/unders
 optim_wo <- read_csv(eval(paste("~/R Stuff/FantasyPros/Tidy/", Year, "/Week_", Char_Week, "_With_Betting_Odds.csv", sep = "")))
 
 optim_wo <- optim_wo %>% 
@@ -20,103 +17,54 @@ optim_wo <- optim_wo %>%
 
 colnames(optim_wo) <- colnames(optim)
 
+#combine data with and without betting odds
 optim <- optim %>%
   filter(!(Player %in% optim_wo$Player))
 
 optim <- rbind(optim, optim_wo)
 
-#manual scores
-optim <- optim %>% 
-  mutate()
 
-#filter out 
-monday_night <- c("GB", "DET", "KC", "LAC", "CIN", "DAL")
+#filter out teams that players cannot be picked from
+filter_teams <- c("SF", "LA", "GB", "SEA", "CHI", "MIN", "LV", "ATL")
 
 optim <- optim %>% 
-  filter(!(Team %in% monday_night))
+  filter(!(Team %in% filter_teams))
 
-#not picking
+#Players I do not want to have in my fantasy lineup
 not_picking <- c("Deebo Samuel Sr")
 
 optim <- optim %>% 
   filter(!(Player %in% not_picking))
 
-#picking
+#Players I want in my fantasy lineup
 players_picking <- c()
 
-#filter out Fs and Ds
+
+#set up for optimization
 optim <- optim %>% 
   arrange(Salary, desc(FPTS)) %>% 
   mutate(ones = 1,
          zeroes = 0,
          picking = ifelse(Player %in% players_picking, 1, 0))
 
-#filter out cheap
-# optim <- optim %>% 
-#   filter(Salary >= 11)
+#By position
+QB <- optim %>% 
+  filter(Pos == "QB")
 
+RB <- optim %>% 
+  filter(Pos == "RB")
 
+WR <- optim %>% 
+  filter(Pos == "WR")
 
-Pos_Optim <- function(p, n){
-  
-  df <- optim %>% 
-    filter(Pos == p)
-  #loop
-  i <- n + 1
-  if(n == 1){
-    l <- list(df$FPTS[1])
-  } else if (n == 2){
-    l <- list(df$FPTS[1], df$FPTS[2])
-  } else if (n == 3){
-    l <- list(df$FPTS[1], df$FPTS[2], df$FPTS[3])
-  } else if (n == 4){
-    l <- list(df$FPTS[1], df$FPTS[2], df$FPTS[3], df$FPTS[4])
-  }
-  while(i <= nrow(df)){
-    pts <- df$FPTS[i]
-    if(pts <= l[n]){
-      df <- df[-i,]
-      i <- i - 1
-    } else if(n == 1){
-      l[1] <- pts
-    } else if(pts <= l[n-1]){
-      l[n] <- pts
-    } else if(n == 2){
-      l[2] <- l[1]
-      l[1] <- pts
-    } else if(pts <= l[n-2]){
-      l[n] <- l[n-1]
-      l[n-1] <- pts
-    } else if(n == 3){
-      l[3] <- l[2]
-      l[2] <- l[1]
-      l[1] <- pts
-    } else if(pts <= l[n-3]){
-      l[n] <- l[n-1]
-      l[n-1] <- l[n-2]
-      l[n-2] <- pts
-    }
-    i <- i + 1
-  }
-  return(df)
-}
+TE <- optim %>% 
+  filter(Pos == "TE")
 
+DST <- optim %>% 
+  filter(Pos == "DEF")
 
-QB_o <- Pos_Optim("QB", 1)
-RB_o <- Pos_Optim("RB", 3)
-WR_o <- Pos_Optim("WR", 4)
-TE_o <- Pos_Optim("TE", 2)
-DST_o <- Pos_Optim("DEF", 1)
-
-#All possible flex
-Flex_o <- rbind(RB_o, WR_o, TE_o)
-
-#All possible non-flex
-# RB_o <- Pos_Optim("RB", 2)
-# WR_o <- Pos_Optim("WR", 3)
-# TE_o <- Pos_Optim("TE", 1)
-
-Players_o <- rbind(QB_o, RB_o, WR_o, TE_o, DST_o)
+#Combine (need for proper ordering of lists)
+Players_o <- rbind(QB, RB, WR, TE, DST)
 
 
 #Optimization
@@ -128,14 +76,14 @@ Objective.in <- c(Players_o$FPTS)
 Const.mat <- matrix(c(Players_o$Salary,
                       Players_o$ones,
                       Players_o$picking,
-                      QB_o$ones, RB_o$zeroes, WR_o$zeroes, TE_o$zeroes, DST_o$zeroes,
-                      QB_o$zeroes, RB_o$ones, WR_o$zeroes, TE_o$zeroes, DST_o$zeroes,
-                      QB_o$zeroes, RB_o$zeroes, WR_o$ones, TE_o$zeroes, DST_o$zeroes,
-                      QB_o$zeroes, RB_o$zeroes, WR_o$zeroes, TE_o$ones, DST_o$zeroes,
-                      QB_o$zeroes, RB_o$zeroes, WR_o$zeroes, TE_o$zeroes, DST_o$ones,
-                      QB_o$zeroes, RB_o$ones, WR_o$zeroes, TE_o$zeroes, DST_o$zeroes,
-                      QB_o$zeroes, RB_o$zeroes, WR_o$ones, TE_o$zeroes, DST_o$zeroes,
-                      QB_o$zeroes, RB_o$zeroes, WR_o$zeroes, TE_o$ones, DST_o$zeroes
+                      QB$ones, RB$zeroes, WR$zeroes, TE$zeroes, DST$zeroes,
+                      QB$zeroes, RB$ones, WR$zeroes, TE$zeroes, DST$zeroes,
+                      QB$zeroes, RB$zeroes, WR$ones, TE$zeroes, DST$zeroes,
+                      QB$zeroes, RB$zeroes, WR$zeroes, TE$ones, DST$zeroes,
+                      QB$zeroes, RB$zeroes, WR$zeroes, TE$zeroes, DST$ones,
+                      QB$zeroes, RB$ones, WR$zeroes, TE$zeroes, DST$zeroes,
+                      QB$zeroes, RB$zeroes, WR$ones, TE$zeroes, DST$zeroes,
+                      QB$zeroes, RB$zeroes, WR$zeroes, TE$ones, DST$zeroes
                       ), nrow = 11, byrow = TRUE)
 
 #Define Constraints
@@ -175,13 +123,13 @@ sum(salary_matrix*solution_matrix)
 #Print Team
 Players_o["Selection"] <- solution_matrix
 
+#get lineup
 team <- Players_o %>% 
   filter(Selection == 1) %>% 
   select(Player, Pos, Team, Opp, Salary, FPTS, ppd, Matchup, StartSit, PAR_PD)
 
 
-
-#Info
+#Print linup and projected points
 team
 sum(fpts_matrix*solution_matrix)
 
