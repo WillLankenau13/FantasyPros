@@ -5,7 +5,7 @@ This repository combines projected fantasy football points from FantasyPros and 
 
 
 # Yahoo Daily Fantasy
-In Yahoo Daily Fantasy, you build a fantasy lineup (1QB, 2RB, 3WR, 1TE, 1FLEX, 1DST) from a budget of 200, with player costs starting at 10 and ranging to 40 or more, with better performing players (fantasy wise) costing more. 
+In Yahoo Daily Fantasy Football, you build a fantasy lineup (1QB, 2RB, 3WR, 1TE, 1FLEX, 1DST) from a budget of 200, with player costs starting at 10 and ranging to 40 or more, with better performing players (fantasy wise) costing more. 
 
 
 # Data
