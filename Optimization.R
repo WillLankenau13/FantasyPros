@@ -2,7 +2,7 @@ library("tidyverse")
 library("lpSolve")
 
 #Year and Week
-Char_Week <- 15
+Char_Week <- 16
 Year <- 2024
 
 #Download combined data
@@ -11,8 +11,8 @@ optim <- read_csv(eval(paste("~/R Stuff/FantasyPros/Tidy/", Year, "/Week_", Char
 #Data with betting over/unders
 optim_wo <- read_csv(eval(paste("~/R Stuff/FantasyPros/Tidy/", Year, "/Week_", Char_Week, "_With_Betting_Odds.csv", sep = "")))
 
-optim_wo <- optim_wo %>% 
-  mutate(FPTS...6 = Avg) %>% 
+optim_wo <- optim_wo %>%
+  mutate(FPTS...6 = Avg) %>%
   select(Player:PAR_PD)
 
 colnames(optim_wo) <- colnames(optim)
@@ -25,7 +25,7 @@ optim <- rbind(optim, optim_wo)
 
 
 #filter out teams that players cannot be picked from
-filter_teams <- c("SF", "LA", "GB", "SEA", "CHI", "MIN", "LV", "ATL")
+filter_teams <- c("DEN", "LAC", "KC", "HOU", "PIT", "BAL", "TB", "DAL", "GB", "NO")
 
 optim <- optim %>% 
   filter(!(Team %in% filter_teams))
