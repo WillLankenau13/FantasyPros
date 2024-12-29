@@ -2,7 +2,7 @@ library("tidyverse")
 
 
 #Year and Week
-Char_Week <- 16
+Char_Week <- 17
 Year <- 2024
 
 #Read Fantasy Pros Data

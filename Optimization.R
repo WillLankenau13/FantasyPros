@@ -2,7 +2,7 @@ library("tidyverse")
 library("lpSolve")
 
 #Year and Week
-Char_Week <- 16
+Char_Week <- 17
 Year <- 2024
 
 #Download combined data
@@ -25,13 +25,13 @@ optim <- rbind(optim, optim_wo)
 
 
 #filter out teams that players cannot be picked from
-filter_teams <- c("DEN", "LAC", "KC", "HOU", "PIT", "BAL", "TB", "DAL", "GB", "NO")
+filter_teams <- c("DEN", "CIN", "LAC", "NE", "LA", "ARI", "SEA", "CHI", "HOU", "BAL", "KC", "PIT", "DET", "SF", "WAS", "ATL")
 
 optim <- optim %>% 
   filter(!(Team %in% filter_teams))
 
 #Players I do not want to have in my fantasy lineup
-not_picking <- c("Deebo Samuel Sr")
+not_picking <- c("Deebo Samuel Sr", "Dontayvion Wicks")
 
 optim <- optim %>% 
   filter(!(Player %in% not_picking))
